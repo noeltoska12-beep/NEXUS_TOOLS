@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NEXUS TOOLS</string>
+    <string name="title_activity_main">NEXUS TOOLS</string>
+    <string name="package_name">com.nexus.tools</string>
+    <string name="custom_url_scheme">com.nexus.tools</string>
+</resources>
